@@ -1,6 +1,6 @@
 {
   "name": "angular-tooltips",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "A tooltips directive for angularjs.",
   "homepage": "http://720kb.github.io/angular-tooltips",
   "keywords": [
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/720kb/angular-tooltips.git"
+    "url": "https://github.com/maximilianschmitt/angular-tooltips.git"
   },
   "license": "MIT",
   "devDependencies": {
